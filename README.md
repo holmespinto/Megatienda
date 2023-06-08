@@ -1,2 +1,2 @@
-# tiendaprestashop
-Implementacion de un proyecto en Prestashop.
+# Developer
+Implementacion de un proyecto desde cero en VTEX.
